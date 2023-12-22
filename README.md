@@ -1,5 +1,5 @@
 # ColonelPanic
-Hacking game using OpenAI's GPT-4 ijmplemented as a discord bot  
+Hacking game using OpenAI's GPT-4 implemented as a discord bot  
 
 # Note:  
     Have fun  
@@ -9,5 +9,5 @@ Hacking game using OpenAI's GPT-4 ijmplemented as a discord bot
 
 
 # Demo: 
-[![Colonel Panic](https://img.youtube.com/vi/VEEbgbxr7Pk/0.jpg)](https://youtu.be/VEEbgbxr7Pk)  
+[![Colonel Panic](https://img.youtube.com/vi/A0htHP9nuvk/0.jpg)](https://youtu.be/A0htHP9nuvk)  
 donate for automation/scripting updates! https://www.patreon.com/Wintermute310  
