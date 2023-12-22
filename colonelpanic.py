@@ -1,8 +1,9 @@
 import os
+#the up-to-date openai module as of 12-22-23
 from openai import OpenAI
 from random import randrange
+#discordpy
 import discord
-from discord.ext import commands
 import time
 
 client = OpenAI(
