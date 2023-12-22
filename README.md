@@ -5,7 +5,7 @@ Hacking game using OpenAI's GPT-4 ijmplemented as a discord bot
     Have fun  
 
 # Install Notes (ubuntu 22.04/debian): 
-    install required libraries. python3 colonelpanic.py
+    install required libraries incl most recent pycord, openai libraries (as of 12-22-23). python3 colonelpanic.py
 
 
 # Demo: 
